@@ -1,5 +1,4 @@
 # PhotoWall
 3D樱花照片墙   
-<BR>效果demo  
-  <br> https://dexiongzhang.github.io/PhotoWall/index1.html  
-   <br>https://dexiongzhang.github.io/PhotoWall/index2.html
+背景为樱花，照片动态显示(更换照片时注意照片尺寸）
+
